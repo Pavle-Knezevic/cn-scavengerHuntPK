@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2018 hunt 2.0 if got deleted.unity
+  isLoaded: 1
+  isActive: 1
